@@ -1,0 +1,35 @@
+body{
+    background-color: #f6f2f2;
+}
+#temperatura{
+    width: 100px;
+    height: 200px;
+}
+#header{
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+}
+#header img{
+    margin: 1%;
+    width: 20%;
+    height: 10%;
+
+}
+.indicador{
+    margin: 1%;
+}
+#wrapper-indicadores{
+    margin-left: 8.5%;
+}
+#main_vibraciones{
+    position: relative;
+    left: 40%;
+    top: -15%;
+
+}
+#main_vibraciones h3{
+    position: absolute;
+    top: -15%;
+    left: 15%;
+}
